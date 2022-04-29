@@ -1,0 +1,11 @@
+# f = open("tarun.txt")
+# # create =  f.write("enter")
+# # print(create)
+# for line in f:
+#     print(line,end='')
+# f.close()
+f = open("tarun.txt", "r+")
+print(f.read())
+f.write("your brain is empty\n")
+print(f.read())
+f.seek(10)

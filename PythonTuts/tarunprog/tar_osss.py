@@ -1,0 +1,17 @@
+import os
+print(dir(os))
+print(os.getcwd()) #current working directory
+# os.chdir("c://")
+# print(os.getcwd())
+f = open("tarun.txt")
+print(os.listdir("c://"))
+# os.mkdir("this")
+# os.makedirs("this/that/tahr")
+# os.rename("tarun.txt","guru.txt")
+# print(os.environ.get("path"))
+# print(os.path.join("c://" , "/taruuu"))
+# print(os.path.exists("c://program Files"))
+# print(os.path.isfile("c://program Files"))
+# print(os.path.isdir("c://program Files"))
+a = os.path.splitext("hello.jpg")
+print(a)

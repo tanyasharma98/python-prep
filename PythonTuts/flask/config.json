@@ -1,0 +1,16 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/copycoder",
+    "prod_uri": "mysql://root:@localhost/copycoder",
+    "fb_url": "https://facebook.com/copycoder",
+    "tw_url": "https://twitter.com/copycoder",
+    "gh_url": "https://github.com/copycoder",
+    "blog_name": "Coding Thundi",
+    "tag_line": "tanya not a BAKA",
+    "gmail-user": "ts6940091@gmail.com",
+    "gmail-password": ""
+
+  }
+}
